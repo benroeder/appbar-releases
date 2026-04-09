@@ -2,6 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>AppBar</title>
-    <!-- First release entry will be added here by scripts/release.sh -->
+    <item>
+      <title>Version 0.1.0</title>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <pubDate>Wed, 09 Apr 2026 22:30:00 +0100</pubDate>
+      <enclosure
+        url="https://benroeder.github.io/appbar-releases/releases/AppBar-0.1.0.dmg"
+        sparkle:edSignature="Y6Jxp2mUgPocgn5acm1kfJAwHVLj7dn24L6O10xw3llQvaMbdAGVwzublfLeptpV1idCQNCKAjF+H6KtAEoJDw=="
+        length="5790271"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
