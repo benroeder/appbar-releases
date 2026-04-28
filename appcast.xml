@@ -3,6 +3,17 @@
   <channel>
     <title>AppBar</title>
     <item>
+      <title>Version 0.4.19</title>
+      <sparkle:version>202</sparkle:version>
+      <sparkle:shortVersionString>0.4.19</sparkle:shortVersionString>
+      <pubDate>Tue, 28 Apr 2026 01:08:40 +0100</pubDate>
+      <enclosure
+        url="https://benroeder.github.io/appbar-releases/releases/AppBar-0.4.19.dmg"
+        sparkle:edSignature="cT3xz/8VnHODStzoDLn6vTocCG84mDt4XkfJj9nYb9dK0/4LmgKniCCkXXy+pclto5qEj5lRrhDxTKwJG/IUDg==" length="6754806"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 0.4.18</title>
       <sparkle:version>200</sparkle:version>
       <sparkle:shortVersionString>0.4.18</sparkle:shortVersionString>
