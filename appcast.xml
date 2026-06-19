@@ -3,6 +3,17 @@
   <channel>
     <title>AppBar</title>
     <item>
+      <title>Version 1.2.0</title>
+      <sparkle:version>235</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <pubDate>Fri, 19 Jun 2026 17:05:22 +0100</pubDate>
+      <enclosure
+        url="https://benroeder.github.io/appbar-releases/releases/AppBar-1.2.0.dmg"
+        sparkle:edSignature="5tNS6NE6G97R853fRIOm7KKnCbh75tCkHcTU1hEj5vQk70ImZ9tz+xU1qGhRSgZGDATLXZL1jsNFVq0nJDQTAw==" length="10484787"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <sparkle:version>234</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
@@ -21,17 +32,6 @@
       <enclosure
         url="https://benroeder.github.io/appbar-releases/releases/AppBar-0.4.38.dmg"
         sparkle:edSignature="QLzOs4GdrFoZPKOpQbRzOXHPX+KosmE169HDBg3mOQZnxGNLosspP5ccLFpJifxy+Uh16U4hYX6FqRNKMn20Bw==" length="10320159"
-        type="application/octet-stream"/>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-    </item>
-    <item>
-      <title>Version 0.4.37</title>
-      <sparkle:version>231</sparkle:version>
-      <sparkle:shortVersionString>0.4.37</sparkle:shortVersionString>
-      <pubDate>Thu, 07 May 2026 13:58:59 +0100</pubDate>
-      <enclosure
-        url="https://benroeder.github.io/appbar-releases/releases/AppBar-0.4.37.dmg"
-        sparkle:edSignature="APo1jIMQFp667Iv61Wm5T9drsuDDszX017IUCEFigbZAxgSqdKPCX9ZwOuOr8FKQ53mWshsmnUDoralF8gZgAA==" length="10317720"
         type="application/octet-stream"/>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
     </item>
